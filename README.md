@@ -1,6 +1,8 @@
 # 🏓 Framebuffer Pong Game (Assembly)
 
-A minimal and highly optimized **Pong / Air-Hockey–style game** written in **assembly language**, using a **framebuffer graphics interface** and **joystick-based input system calls**.
+A minimal and highly optimized **Pong / Air-Hockey–style game** written in **assembly language**,  using a **framebuffer graphics interface** and **joystick-based input system calls**.
+
+Designed to run on the **Montana Mini Computer**.
 
 The project demonstrates **low-level game programming techniques**, focusing on efficient control flow, deterministic behavior, and real-time rendering without high-level abstractions.
 
