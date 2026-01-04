@@ -41,8 +41,6 @@ The project demonstrates **low-level game programming techniques**, focusing on 
 
 ---
 
----
-
 ## ✨ Author
 
 **Ved Walvekar**
