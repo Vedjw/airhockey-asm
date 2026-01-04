@@ -1,4 +1,4 @@
-# 🏓 Framebuffer Pong Game (Assembly)
+# 🏓 Pong Game (Assembly)
 
 A minimal and highly optimized **Pong / Air-Hockey–style game** written in **assembly language**,  using a **framebuffer graphics interface** and **joystick-based input system calls**.
 
